@@ -24,7 +24,7 @@ int main(){
     for(f=0; f<N; f++){
             for (c = 0; c <M; c++)
             {
-                printf("%lf",*puntero++);
+                printf(" %lf",*puntero++);
             }
             printf("\n");
     }
